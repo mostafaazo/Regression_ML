@@ -125,3 +125,5 @@ print('r2: ', round(r2,4))
 print('MAE: ', round(mean_absolute_error,4))
 print('MSE: ', round(mse,4))
 print('RMSE: ', round(np.sqrt(mse),4))
+
+#%%
