@@ -7,3 +7,4 @@ flask
 requests
 flask_restful
 joblib
+jupyter
