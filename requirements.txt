@@ -3,3 +3,7 @@ sklearn
 matplotlib
 pandas
 seaborn
+flask
+requests
+flask_restful
+joblib
